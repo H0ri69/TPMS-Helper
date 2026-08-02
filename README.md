@@ -29,7 +29,7 @@ Standard form fillers often fail on modern websites. **Auto Form & Switch Filler
 ## 🛠️ How to Use
 
 ### 1. The Shortcut (Fastest)
-On any page, simply press the **Backtick key (<kbd>`</kbd>)** (the key below `Esc`). The form fills instantly!
+Trigger a full-page fill instantly by pressing the <kbd>`</kbd> (backtick) key.
 
 ### 2. The Popup
 Click the extension icon to access the **Control Panel**. From here, you can:
